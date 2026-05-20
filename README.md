@@ -1,5 +1,5 @@
 # MLR_Project
-# 🚀 Multiple Linear Regression Profit Prediction Web App
+# 🚀 Multiple Linear Regression Profit Prediction
 
 A professional Machine Learning web application developed using Flask and Multiple Linear Regression to predict company profit based on business expenditure data.
 
